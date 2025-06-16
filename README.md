@@ -5,7 +5,7 @@ This project implements a **Speech Emotion Recognition** system using **deep lea
 
 ---
 
-##Table of Contents
+## Table of Contents
 - [Project Description](#project-description)
 - [Dataset](#dataset)
 - [Preprocessing Pipeline](#preprocessing-pipeline)
@@ -20,7 +20,7 @@ This project implements a **Speech Emotion Recognition** system using **deep lea
 
 ---
 
-##Project Description
+## Project Description
 
 This is a **machine learning-based web application** that predicts human emotions from audio speech. It classifies audio into **eight emotions**:
 - `angry`
@@ -36,7 +36,7 @@ The model is trained on extracted features from audio clips and is optimized for
 
 ---
 
-##Dataset
+## Dataset
 
 The app uses audio files from the **RAVDESS dataset** (Ryerson Audio-Visual Database of Emotional Speech and Song). This dataset contains `.wav` files of actors speaking in various emotional tones. Only the speech portions were used (not the singing ones).
 
