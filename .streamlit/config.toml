@@ -1,0 +1,17 @@
+[theme]
+base="light"
+primaryColor="#2c3e50"       # A dark blue for buttons, links, etc.
+backgroundColor="#ffffff"    # White background
+secondaryBackgroundColor="#f7f7f7"  # Light gray for widgets
+textColor="#000000"          # Black text
+font="sans serif"            # Clean font
+
+[server]
+headless = true
+runOnSave = true
+enableCORS = false
+enableXsrfProtection = false
+
+[client]
+showSidebarNavigation = false  # Hides Streamlit sidebar completely
+
