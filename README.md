@@ -1,6 +1,6 @@
 
 # Speech Emotion Recognition (SER) Web App
-
+**[Live Demo on Streamlit]([https://your-streamlit-app-link.streamlit.app](https://c4ndy1-speech-emotion-recognition-app.streamlit.app/)**  
 This project implements a **Speech Emotion Recognition** system using **deep learning** on extracted audio features. The application allows users to upload `.wav` audio files, and the system predicts the **dominant emotion** in the speech. A **Streamlit frontend** is built for clean and interactive deployment.
 
 ---
