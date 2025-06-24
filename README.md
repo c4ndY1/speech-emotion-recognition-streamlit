@@ -4,6 +4,11 @@
 This project implements a **Speech Emotion Recognition** system using **deep learning** on extracted audio features. The application allows users to upload `.wav` audio files, and the system predicts the **dominant emotion** in the speech. A **Streamlit frontend** is built for clean and interactive deployment.
 
 ---
+## Demo Video
+
+[Watch the demo](https://drive.google.com/file/d/13Peg9rehgKg7wX-4sdrsz8CHFijNqJ-c/view?usp=sharing)
+
+---
 
 ## Table of Contents
 - [Project Description](#project-description)
